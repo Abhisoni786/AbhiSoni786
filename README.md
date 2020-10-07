@@ -13,3 +13,5 @@
 ---
 #### Stats Time 📈
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbhiSoni786&hide=issue,contribs,prs&show_icons=true&theme=material-palenight&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSoni786&langs_count=8&layout=compact)
