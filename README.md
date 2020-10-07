@@ -1,14 +1,15 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AbhiSoni786&color=green)
 
-**Abhisoni786/AbhiSoni786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Abhi here 👦
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [**Kotlin**](https://kotlinlang.org/)
+- 👯 I’m looking to collaborate on **Sweets Notes app**
+- 😻 Crazy about history.
+- 😄 Pronouns: He/Him
+- 🌏 [abhishek-soni.netlify.app](abhishek-soni.netlify.app)
 
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning kotlin
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about android (Java)
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
+---
+#### Stats Time 📈
+![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbhiSoni786&hide=issue,contribs,prs&show_icons=true&theme=material-palenight&show_icons=true&count_private=true)
