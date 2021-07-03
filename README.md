@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/AadityaJain-Dev/AadityaJain-Dev/main/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/Abhisoni786/AbhiSoni786/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=AbhiSoni786&color=green)
 
