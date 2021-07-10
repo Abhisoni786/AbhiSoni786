@@ -10,13 +10,13 @@
 - 👯 I’m looking to collaborate on **Go Transfer App**
 - 😻 Crazy about history.
 - 😄 Pronouns: He/Him
-- 🌏 [abhishek-soni.netlify.app](abhishek-soni.netlify.app)
+- 🌏 [Portfolio](https://abhishek-soni.netlify.app/)
 
 ---
 #### Stats Time 📈
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbhiSoni786&hide=issue,contribs,prs&show_icons=true&theme=material-palenight&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSoni786&langs_count=8&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSoni786&langs_count=8&layout=compact) -->
 
 
 <!-- <img src="https://raw.githubusercontent.com/Abhisoni786/AbhiSoni786/master/footer.svg" alt="bottom"> -->
