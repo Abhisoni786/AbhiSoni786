@@ -7,8 +7,7 @@
 #### Abhi here 👦
 
 - 🌱 I’m currently learning [**Kotlin**](https://kotlinlang.org/)
-- 👯 I’m looking to collaborate on **Go Transfer App**
-- 😻 Crazy about history.
+- 👯 I’m looking to collaborate on **One Pdf App**
 - 😄 Pronouns: He/Him
 - 🌏 [Portfolio](https://abhishek-soni.netlify.app/)
 
